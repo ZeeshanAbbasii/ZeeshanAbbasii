@@ -1,6 +1,6 @@
 # 💫 About Me:
-Driven Software Engineering student with a strong focus on machine learning models and a passion for developing innovative AI solutions. Experienced in leveraging data science to create impactful insights. Skilled in:<br>Big Data Analytics<br>Machine Learning Model Development<br>Python Libraries for data Visualization using Matplotlib, cufflinks, seaborn and its built in techniques<br>Power BI for Data Visualization
-<br>iOS Application Development using Swift<br>
+Driven Software Engineering student with a strong focus on machine learning models and a passion for developing innovative AI solutions. Experienced in leveraging data science to create impactful insights. Skilled in:<br>=>Big Data Analytics<br>=>Machine Learning Model Development<br>=>Python Libraries for data Visualization using Matplotlib, cufflinks, seaborn and its built in techniques<br>=>Power BI for Data Visualization
+<br>=>iOS Application Development using Swift<br>=>
 Committed to continuous learning and applying cutting-edge technology to solve complex problems.
 
 ## 🌐 Socials:
