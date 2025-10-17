@@ -1,6 +1,6 @@
 # 💫 About Me:
-Driven Software Engineering student with a strong focus on machine learning models and a passion for developing innovative AI solutions. Experienced in leveraging data science to create impactful insights. Skilled in:<br>=>Big Data Analytics<br>=>Machine Learning Model Development<br>=>Python Libraries for data Visualization using Matplotlib, cufflinks, seaborn and its built in techniques<br>=>Power BI for Data Visualization
-<br>=>iOS Application Development using Swift<br>=>
+AI Engineering Student skilled in machine learning, deep learning, and intelligent system design. Experienced in
+developing end-to-end AI solutions integrating predictive models, NLP, and data-driven automation. Skilled in:=>Machine Learning=>Python=>Natural Language Processing (NLP)=>Deep Learning=>Large Language Models (LLM)=>Time Series Forecasting=>Data Cleaning & Preprocessing=>Exploratory Data Analysis (EDA)=>Power BI=>Data Visualization=>Scikit-learn=>Pandas=>NumPy=>SQL=>PyTorch=>Generative AI=>
 Committed to continuous learning and applying cutting-edge technology to solve complex problems.
 
 ## 🌐 Socials:
