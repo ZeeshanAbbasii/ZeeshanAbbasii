@@ -1,6 +1,6 @@
 # 💫 About Me:
 AI Engineering Student skilled in machine learning, deep learning, and intelligent system design. Experienced in
-developing end-to-end AI solutions integrating predictive models, NLP, and data-driven automation. Skilled in:=>Machine Learning=>Python=>Natural Language Processing (NLP)=>Deep Learning=>Large Language Models (LLM)=>Time Series Forecasting=>Data Cleaning & Preprocessing=>Exploratory Data Analysis (EDA)=>Power BI=>Data Visualization=>Scikit-learn=>Pandas=>NumPy=>SQL=>PyTorch=>Generative AI=>
+developing end-to-end AI solutions integrating predictive models, NLP, and data-driven automation. Skilled in:<br>=>Machine Learning<br>=>Python<br>=>Natural Language Processing (NLP)<br>=>Deep Learning<br>=>Large Language Models (LLM)<br>=>Time Series Forecasting<br>=>Data Cleaning & Preprocessing<br>=>Exploratory Data Analysis (EDA)<br>=>Power BI<br>=>Data Visualization<br>=>Scikit-learn<br>=>Pandas<br>=>NumPy<br>=>SQL<br>=>PyTorch<br>=>Generative AI<br>=>
 Committed to continuous learning and applying cutting-edge technology to solve complex problems.
 
 ## 🌐 Socials:
