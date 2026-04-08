@@ -16,14 +16,6 @@ Final-year Software Engineering student at Bahria University (Graduating May 202
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-## 🚀 Featured Projects
-| Project | Description | Tech |
-|---------|-------------|------|
-| [AutoDS](https://github.com/ZeeshanAbbasii/AutoDS) | LLM-powered autonomous data scientist — zero config ML pipeline | Python · LangChain · FastAPI |
-| [PrivateGPT](https://github.com/ZeeshanAbbasii/PrivateGPT) | AI legal document assistant with RAG & semantic search | LangChain · ChromaDB · FastAPI |
-| [AI Meeting Summarizer](https://github.com/ZeeshanAbbasii/AI-Meeting-Summarizer) | Converts meeting audio to structured summaries using Whisper + LLMs | Whisper · FastAPI · React |
-| [CollabConnect](https://github.com/ZeeshanAbbasii/CollabConnect) | Real-time team collaboration platform with <200ms latency | MERN · WebSockets · JWT |
-
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeeshan-abbasii/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abasizishan@gmail.com)
