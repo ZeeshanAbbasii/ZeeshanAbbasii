@@ -18,12 +18,12 @@
 
 ## 👨‍💻 About Me
 
-I'm an AI Engineer building production-ready AI and backend systems at the intersectiod engineering, and system design**. I ship LLM-powered applications — **RAG pipelines,AI agents, and NLP systems** — together with the reliable, scalable infrastructure (APIs, retrieval, orchestration, security, monitoring, deployment) that makes them production-grade.
+I'm an AI Engineer building production-ready AI and backend systems at the intersection of **Generative AI, backend engineering, and system design**. I ship LLM-powered applications — **RAG pipelines, AI agents, and NLP systems** — together with the reliable, scalable infrastructure (APIs, retrieval, orchestration, security, monitoring, deployment) that makes them production-grade.
 
 - 🧠 **Generative AI** — LLM apps, RAG pipelines, agentic AI, NLP
-- ⚙️ **Backend Engineering** — FastAPI, REST APIs, async & background processing, mult
+- ⚙️ **Backend Engineering** — FastAPI, REST APIs, async & background processing, multi-tenant SaaS
 - 🗄️ **Data & Retrieval** — vector databases (Pinecone, pgvector), PostgreSQL, Redis
-- ☁️ **Production Systems** — Docker, AWS, observability, cost control, security, test
+- ☁️ **Production Systems** — Docker, AWS, observability, cost control, security, testing
 
 ## 🔭 Currently
 
@@ -35,7 +35,7 @@ I'm an AI Engineer building production-ready AI and backend systems at the inter
 
 ## 🚀 Featured Projects
 
-**🛰️ SONAR SHIELD** — Multi-model deep-learning platform for signal restoration & error correction. Noise-type-aware U-Net / Autoencoder / WaveNet denoising (**8–15 dB SNR gain**) plus an LSTM neuraldecoder (**30–40% lower BER** vs. Viterbi FEC). FastAPI + React, 7+ models, real-time inference.
+**🛰️ SONAR SHIELD** — Multi-model deep-learning platform for signal restoration & error correction. Noise-type-aware U-Net / Autoencoder / WaveNet denoising (**8–15 dB SNR gain**) plus an LSTM neural decoder (**30–40% lower BER** vs. Viterbi FEC). FastAPI + React, 7+ models, real-time inference.
 `PyTorch` · `FastAPI` · `React` · `Docker`
 
 **📝 AI Meeting Summarizer** — 100% local pipeline: **Whisper** → **Llama 3 (Ollama)** turns meeting audio into transcripts, summaries, decisions & action items. Async FastAPI + React + SQLite.
